@@ -64,13 +64,13 @@ const DEFAULT_SETTINGS = {
   brandName: "radiant",                                   // <- your brand name
   tagline: "Timeless Style. Everyday Elegance.",
   logoInitial: "R",                                     // shown in the badge mark
-  phone: "+92 300 1234567",                              // <- your phone
-  whatsapp: "+92 300 1234567",                           // <- your WhatsApp number
+  phone: "+92 327 9593907",                              // <- your phone
+  whatsapp: "+92 327 9593907",                           // <- your WhatsApp number
   email: "sabeenarain.0@gmail.com",                         // <- your email
-  instagram: "instagram.com/radiant.store",                 // <- your Instagram
+  instagram: "https://www.instagram.com/pk.radiant?stkn=M3ZicXhyOWlvNXU5&utm_source=qr",                 // <- your Instagram
   facebook: "facebook.com/radiant.store",                   // <- your Facebook
   tiktok: "tiktok.com/@radiant.store",                       // <- your TikTok
-  address: "Shop 14, Liberty Market, Gulberg, Lahore, Pakistan",
+  address: "Gujranwala, Pakistan",
   deliveryCharge: 250,                                    // flat delivery charge in PKR
   freeDeliveryOver: 15000,                                // free delivery threshold in PKR
   currency: "Rs.",
